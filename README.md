@@ -15,3 +15,5 @@ $$C=\frac {1C}{1V}=1f$$
 Como se puede observar, un faradio es una unidad muy grande ya que lo podemos relacionar:
 
 $$1C=\frac {1A}{t}$$
+
+Por lo que en la practica, se utilizan faradios en micro, es decir, $10^{-6}F$ donde la mayor parte de los condensadores son electroliticos, se comportan de una manera similar que un condensador ideal, pero con placas conductoras enrolladas junto a un papel, este metal se oxida cuando se aplica una diferencia de potencial entre ambas polaridades del condensador y actua como un capacitor, sin embargo, si se conecta al reves, el capacitor electrolitico conducira corriente ya que el metal no se oxidara y perdera sus propiedades capacitivas.
