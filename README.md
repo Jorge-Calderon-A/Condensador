@@ -10,4 +10,4 @@ $$C=\frac {Q}{dV}$$
 
 Este cálculo nos define que la por la diferencia o variación de tensión hay una carga especifica, la carga en la diferencia de tensión, por ejemplo, para tener 1 faradio debemos que:
 
-$$C=\frac {1Q}{1V}=1f$$
+$$C=\frac {1C}{1V}=1f$$
